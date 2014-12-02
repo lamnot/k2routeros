@@ -5,7 +5,7 @@
         //print "Sorry - you need valid credentials to be granted access!\n";
         exit;
     } else {
-        if (($_SERVER['PHP_AUTH_USER'] == 'k2logink4g') && ($_SERVER['PHP_AUTH_PW'] == 'K2wan%nch1k4w*ndPa')) {
+        if (($_SERVER['PHP_AUTH_USER'] == 'k**********g') && ($_SERVER['PHP_AUTH_PW'] == 'K**********a')) {
             //print "Welcome to the private area!";
         } else {
             //header("WWW-Authenticate: Basic realm=\"Private Area\"");
